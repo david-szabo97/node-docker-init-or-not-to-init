@@ -5,6 +5,8 @@ This repository exists to prove that you need an `init` process in your Docker c
 
 Uses Node.js as an example, but this is basically applicable to all runtimes.
 
+**You can read more about PID 1, orphaned processes, zombie processes, process adopting in my [blog article](https://daveiscoding.com/why-do-you-need-an-init-process-inside-your-docker-container-pid-1).**
+
 ## Run it
 
 ### Run without --init
